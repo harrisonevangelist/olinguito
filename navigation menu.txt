@@ -1,0 +1,12 @@
+
+<article id="nav1">
+<h2>Nav Menu with Peekaboo Text</h2>
+     <nav>
+	 <ul>
+	 <li><a href="#">menu item 1</a><span>extra text for item1<img src="red-northern-cardinal.jpg" alt=""></span></li>
+	 <li><a href="#">menu item 1</a><span>extra text for item1<img src="Blue bird.jpg" alt=""></span></li>
+	 <li><a href="#">menu item 1</a><span>extra text for item1<img src="Cyan bird.jpg" alt=""></span></li>
+	 </ul>
+	 <nav/>
+</article>
+
